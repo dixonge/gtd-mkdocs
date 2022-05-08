@@ -2,7 +2,7 @@
 Title: COVID-19
 ---
 
-![](../img/apocalypse.jpg)
+![](../img/covid-19.jpeg)
 
 #### Update: April 17, 2022
 
