@@ -4,6 +4,10 @@ Title: Losing My Faith in Science
 
 ![](../img/greening.jpg)
 
+“It is simply no longer possible to believe much of the clinical research that is published, or to rely on the judgment of trusted physicians or authoritative medical guidelines. I take no pleasure in this conclusion, which I reached slowly and reluctantly over my two decades as an editor of the New England Journal of Medicine.”
+
+[Drug Companies & Doctors: A Story of Corruption - Marcia Angell](https://www.nybooks.com/articles/2009/01/15/drug-companies-doctorsa-story-of-corruption/?pagination=false)
+
 [last updated June 27, 2021 6:31 AM (MDT)]
 
 Before I lost my faith in science, I lost my faith in the religion of my childhood, fundamentalist christianity.
