@@ -5,6 +5,6 @@ I am *just starting* to research this. We all know the narratives. Democrats say
 
 So far all I have is some diagrams I have been drawing to try and figure things out. Those are below. More to come soon, I hope.
 
-![](/docs/Politics/2020%20Elections%20-%20Censoring%20Americans.scap)
+![](/docs/Politics/2020%20Elections%20-%20Censoring%20Americans.png)
 
-![](/docs/Politics/2020-Election.drawio)
+![](/docs/Politics/2020-Election.drawio.png)
